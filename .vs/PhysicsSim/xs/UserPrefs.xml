@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{39206E27-A566-9283-5015-1D9B4752752B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlatMath.cs">
+    <Files>
+      <File FileName="Assets/Testing.cs" Line="11" Column="6" IsPinned="True" />
+      <File FileName="../FlatPhysics/FlatAABB.cs" Line="12" Column="28" />
+      <File FileName="../FlatPhysics/Collisions.cs" Line="5" Column="35" />
+      <File FileName="../FlatPhysics/FlatWorld.cs" Line="5" Column="2" />
+      <File FileName="Assets/FlatVector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Collisions.cs" Line="1" Column="1" />
+      <File FileName="Assets/FlatAABB.cs" Line="1" Column="1" />
+      <File FileName="Assets/FlatBody.cs" Line="1" Column="1" />
+      <File FileName="Assets/FlatMath.cs" Line="5" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhysicsSim" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FlatMath.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7d37fb21-0177-4faa-b7d0-cd8061cda55f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
